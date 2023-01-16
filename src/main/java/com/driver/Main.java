@@ -14,10 +14,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        product p=new product();
-        p.product(10,5);
-        p.product(10,5,15);
-        p.product(6.5,5.5);
+        product p = new product();
+        p.product(10, 5);
+        p.product(10, 5, 15);
+        p.product(6.5, 5.5);
     }
 
 }
